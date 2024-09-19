@@ -11,7 +11,7 @@ namespace Tyuiu.BerezovskayaGO.Sprint0.Task7.V0
             Console.WriteLine("* Тема: Создания итогового решения по спринту                              *");
             Console.WriteLine("* Задание #7                                                               *");
             Console.WriteLine("* Вариант #0                                                               *");
-            Console.WriteLine("* Выполнила: Лавринович Елизавета Дмитриевна | АСОиУБ - 24-1               *");
+            Console.WriteLine("* Выполнила: Березовская Галина Олеговна | АСОиУБ - 24-1                   *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
             Console.WriteLine("* Написать консольную программу C#, которая суммирует значения двух        *");
